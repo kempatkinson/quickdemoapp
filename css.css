@@ -1,0 +1,24 @@
+#header {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    font-size: 28px;
+}
+
+#box1 {
+    float: left;
+    padding-left: 200px;
+    
+}
+
+#box2 {
+    float: left; 
+}
+
+#caption {
+    float: left;
+    padding-top: 100px;
+    padding-left: 20px;
+    width: 30%;
+
+}
